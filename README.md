@@ -13,7 +13,7 @@ il gagne rapidement le cœur des joueurs à en juger par l’excellente critique
 
 - Histoire de l'entreprise
 
-*FromSoftware* est une entreprise japonaise fondée le 1er novembre 1986. Elle est notamment connue pour la création de jeu telle que **Dark Souls**,
+ <a href="https://fr.wikipedia.org/wiki/FromSoftware">*FromSoftware*</a> est une entreprise japonaise fondée le 1er novembre 1986. Elle est notamment connue pour la création de jeu telle que **Dark Souls**,
 *Armored core*, **Bloodborne**, **Sekiro** ou encore **Elden ring**. Les premiers jeux de la société dans les années 90 ne sont pas des succès internationaux
 mais arrivent quand même a trouver son petit publique. En 1998, *Armored core 1* voit le jour, et engendrera de nombreuse suites. Vivant de petits jeux,
 c'est en 2009 que l'entreprise sortira **Demon's soul** et qui la fera connaître au monde entier. Sortira par la suite en 2011 **Dark soul 1** qui propulsera
@@ -48,3 +48,12 @@ d'exemplaires dans le monde, dont 1 million au Japon. En France, c'est environ 1
 exemplaires. Juin 2022, le chiffre passe à 16.6 millions de vente au mondial puis
 le 30 septembre les chiffres annoncés 17.5 millions et enfin le 20 février 2023, c'est 20
 millions d'exemplaires au total qui ont été vendus dans le monde.
+
+<h3>Récompenses</h3>
+
+- Le jeu à reçu de nombreux lauréats et nominations.
+- Il a gagné 3 fois les Games Awards(2020, 21 et 22).
+- 2 fois les Golden Joystick Awards (2021 et 22).
+- Une fois le Steam Awards(2022).
+- Une fois le Dice Awards ainsi que le concours Pégase (2023).
+- Les scénaristes ont obtenu le prix Nébula en 2023 pour son scénario incroyable.
