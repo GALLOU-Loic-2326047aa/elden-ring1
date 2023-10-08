@@ -57,3 +57,7 @@ millions d'exemplaires au total qui ont été vendus dans le monde.
 - Une fois le Steam Awards(2022).
 - Une fois le Dice Awards ainsi que le concours Pégase (2023).
 - Les scénaristes ont obtenu le prix Nébula en 2023 pour son scénario incroyable.
+> <h3>Les sources</h3>
+><a href="https://fr.wikipedia.org/wiki/Wikipédia:Accueil_principal">wikipedia</a>  
+><a href="https://fr.bandainamcoent.eu/dark-souls/dark-souls">bandainamco</a>
+><a href="https://www.fromsoftware.jp/ww/">fromsoftware</a>
